@@ -1,0 +1,14 @@
+{
+  "name": "My Chrome Extension",
+  "description": "Secrete Generation and User Verfication chrome extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Secrete Generation and User Verfication chrome extension",
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "logo192.png",
+      "128": "logo192.png"
+    }
+  }
+}

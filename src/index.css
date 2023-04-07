@@ -1,0 +1,8 @@
+html,
+body {
+  background-color: rgb(3, 3, 3);
+  width: 400px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+}
